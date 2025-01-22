@@ -94,7 +94,7 @@ export const specialityData = [
 export const doctors = [
     {
         _id: 'doc1',
-        name: 'Dr. Tran Van Bien',
+        name: 'Bác sĩ Tran Van Bien',
         image: doc1,
         speciality: 'Bác sĩ đa khoa',
         degree: 'MBBS',
@@ -192,7 +192,7 @@ export const doctors = [
     },
     {
         _id: 'doc8',
-        name:  'Bác sĩ Lý Văn H',
+        name: 'Bác sĩ Lý Văn H',
         image: doc8,
         speciality: 'Bác sĩ phụ khoa',
         degree: 'MBBS',
@@ -220,7 +220,7 @@ export const doctors = [
     },
     {
         _id: 'doc10',
-        name:  'Bác sĩ Đỗ Văn J',
+        name: 'Bác sĩ Đỗ Văn J',
         image: doc10,
         speciality: 'Bác sĩ nhi khoa',
         degree: 'MBBS',
@@ -234,7 +234,7 @@ export const doctors = [
     },
     {
         _id: 'doc11',
-        name:  'Bác sĩ Đỗ Văn J',
+        name: 'Bác sĩ Đỗ Văn J',
         image: doc11,
         speciality: 'Bác sĩ thần kinh',
         degree: 'MBBS',
@@ -248,7 +248,7 @@ export const doctors = [
     },
     {
         _id: 'doc12',
-        name:'Bác sĩ Nguyễn Thị L',
+        name: 'Bác sĩ Nguyễn Thị L',
         image: doc12,
         speciality: 'Bác sĩ tiêu hóa',
         degree: 'MBBS',
@@ -262,7 +262,7 @@ export const doctors = [
     },
     {
         _id: 'doc13',
-        name:'Bác sĩ Phan Văn M',
+        name: 'Bác sĩ Phan Văn M',
         image: doc13,
         speciality: 'Bác sĩ đa khoa',
         degree: 'MBBS',
