@@ -58,7 +58,7 @@ const Contact = () => {
         ></textarea>
         <button
           type="submit"
-          className="w-full bg-blue-500 text-white py-3 rounded-lg hover:bg-blue-600 transition"
+          className="w-full bg-primary text-white py-3 rounded-lg hover:bg-blue-600 transition"
           disabled={loading}
         >
           {loading ? 'Đang gửi...' : 'Gửi'}
@@ -69,6 +69,10 @@ const Contact = () => {
         <p className="text-gray-700">📧 Email: danangbenhvien1@gmail.com</p>
         <p className="text-gray-700">🏢 Địa chỉ: 123 Đường Ông Ích Khiêm, Đà Nẵng</p>
       </div>
+      <div className="flex justify-center my-3">
+        <button className="bg-primary text-white py-3 px-3 rounded-lg hover:bg-blue-600 transition">Khám phá việc làm</button>
+      </div>
+
     </div>
   );
 };
