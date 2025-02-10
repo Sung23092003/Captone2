@@ -103,7 +103,8 @@ export const doctors = [
         fees: 50,
         address: {
             line1: '17 Nguyễn Trãi',
-            line2: 'Quận 1, TP. Hồ Chí Minh'
+            line2: 'Quận 1',
+            line3: 'TP. Hồ Chí Minh'
         }
     },
     {
@@ -117,7 +118,8 @@ export const doctors = [
         fees: 60,
         address: {
             line1: '27 Lý Thường Kiệt',
-            line2: 'Quận Hoàn Kiếm, Hà Nội'
+            line2: 'Quận Hoàn Kiếm',
+            line3: 'Hà Nội',
         }
     },
     {
@@ -131,7 +133,8 @@ export const doctors = [
         fees: 30,
         address: {
             line1: '37 Đinh Tiên Hoàng',
-            line2: 'Quận Bình Thạnh, TP. Hồ Chí Minh'
+            line2: 'Quận Bình Thạnh',
+            line3: 'TP. Hồ Chí Minh'
         }
     },
     {
@@ -145,7 +148,9 @@ export const doctors = [
         fees: 40,
         address: {
             line1: '47 Hùng Vương',
-            line2: 'Quận Hải Châu, Đà Nẵng'
+            line2: 'Quận Hải Châu',
+            line3: 'Đà Nẵng'
+
         }
     },
     {
@@ -159,7 +164,8 @@ export const doctors = [
         fees: 50,
         address: {
             line1: '57 Trần Hưng Đạo',
-            line2: 'Quận Ninh Kiều, Cần Thơ'
+            line2: 'Quận Ninh Kiều',
+            line3: 'Cần Thơ'
         }
     },
     {
@@ -173,7 +179,8 @@ export const doctors = [
         fees: 55,
         address: {
             line1: '67 Nguyễn Huệ',
-            line2: 'Quận 3, TP. Hồ Chí Minh'
+            line2: 'Quận 3',
+            line3: 'TP. Hồ Chí Minh'
         }
     },
     {
@@ -187,7 +194,8 @@ export const doctors = [
         fees: 45,
         address: {
             line1: '77 Võ Văn Kiệt',
-            line2: 'Quận 5, TP. Hồ Chí Minh'
+            line2: 'Quận 5',
+            line3: 'TP. Hồ Chí Minh'
         }
     },
     {
@@ -201,7 +209,8 @@ export const doctors = [
         fees: 85,
         address: {
             line1: '87 Trần Phú',
-            line2: 'Quận Ngũ Hành Sơn, Đà Nẵng'
+            line2: 'Quận Ngũ Hành Sơn',
+            line3: 'Đà Nẵng'
         }
     },
     {
@@ -215,7 +224,8 @@ export const doctors = [
         fees: 95,
         address: {
             line1: '97 Lê Lợi',
-            line2: 'Quận Hải Châu, Đà Nẵng'
+            line2: 'Quận Hải Châu',
+            line3: 'Đà Nẵng'
         }
     },
     {
@@ -229,7 +239,8 @@ export const doctors = [
         fees: 65,
         address: {
             line1: '107 Nguyễn Công Trứ',
-            line2: 'Quận Sơn Trà, Đà Nẵng'
+            line2: 'Quận Sơn Trà',
+            line3: 'Đà Nẵng'
         }
     },
     {
@@ -243,7 +254,8 @@ export const doctors = [
         fees: 65,
         address: {
             line1: '107 Nguyễn Công Trứ',
-            line2: 'Quận Sơn Trà, Đà Nẵng'
+            line2: 'Quận Sơn Trà',
+            line3: 'Đà Nẵng'
         }
     },
     {
@@ -257,7 +269,8 @@ export const doctors = [
         fees: 90,
         address: {
             line1: '127 Bạch Đằng',
-            line2: 'Quận Hoàn Kiếm, Hà Nội'
+            line2: 'Quận Hoàn Kiếm',
+            line3: 'Hà Nội'
         }
     },
     {
@@ -271,7 +284,8 @@ export const doctors = [
         fees: 80,
         address: {
             line1: '137 Lê Lợi',
-            line2: 'Quận Thanh Xuân, Hà Nội'
+            line2: 'Quận Thanh Xuân',
+            line3: 'Hà Nội'
         }
     },
     {
@@ -285,7 +299,8 @@ export const doctors = [
         fees: 70,
         address: {
             line1: '147 Hoàng Diệu',
-            line2: 'Quận Đống Đa, Hà Nội'
+            line2: 'Quận Đống Đa',
+            line3: 'Hà Nội'
         }
     },
     {
@@ -299,7 +314,8 @@ export const doctors = [
         fees: 30,
         address: {
             line1: '147 Hoàng Diệu',
-            line2: 'Quận Đống Đa, Hà Nội'
+            line2: 'Quận Đống Đa',
+            line3: 'Hà Nội'
         }
     },
 ]

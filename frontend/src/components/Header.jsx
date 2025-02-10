@@ -16,7 +16,7 @@ const Header = () => {
                 </a>
             </div>
             {/* right-side */}
-            <div className='md:w-1/2 relative'>
+            <div className='md:w-1/2 relative hidden sm:block'>
                 <Swiper
                     modules={[Autoplay]}
                     spaceBetween={10}
@@ -37,7 +37,7 @@ const Header = () => {
                     <SwiperSlide>
                         <img className='w-full h-96 object-cover rounded-lg mt-14' src={assets.HomePage_slider3} alt="Slide 3" />
                     </SwiperSlide>
-                    <p style={{opacity:'0.6'}} className="text-center mt-4 text-white text-sm">
+                    <p style={{ opacity: '0.6' }} className="text-center mt-4 text-white text-sm">
                         Kéo sang trái hoặc phải để xem thêm
                     </p>
                 </Swiper>
